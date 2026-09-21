@@ -52,11 +52,11 @@ const abi = [
 
 const PRIVATE_KEYS = [
 
-  "0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80",
+  "YOURPRIVATEKEYS",
 
-  "0x59c6995e998f97a5a0044966f094538e4c3b7f3e7d8e8d4b8e0b2c7d2f8f9c71",
+  "YOURPRIVATEKEYS",
 
-  "0x5de4111afe5f9408b9c1fc7d2f94f0a5d4f97f2d9c84c0a2d5f5d7e5f9d3c4a8"
+  "YOURPRIVATEKEYS"
 
 ];
 
