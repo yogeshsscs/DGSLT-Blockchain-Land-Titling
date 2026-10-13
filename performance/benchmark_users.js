@@ -12,7 +12,7 @@ const { performance } = require("perf_hooks");
 const RPC_URL = "http://127.0.0.1:8545";
 
 const CONTRACT_ADDRESS =
-    "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+    "YOURDEPLOYEDCONTRACTADDRESS";
 
 const USER_COUNTS = [1, 5, 10, 15, 20];
 
