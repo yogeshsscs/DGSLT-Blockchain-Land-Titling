@@ -9,7 +9,7 @@ async function main() {
     // Configuration
     //----------------------------------------------------
 
-    const CONTRACT_ADDRESS = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+    const CONTRACT_ADDRESS = "YOURDEPLOYEDCONTRACTADDRESS";
 
     const USERS = [1, 5, 10, 20, 50, 100];
 
